@@ -1,4 +1,4 @@
-# inspired by linear
+# inspired by linear & basecamp
 
 if you are an ambitious early stage startup, keeping track of multiple projects and roadmaps while trying to innovate and be profitable is hard.
 well, let us help you with one half of the equation.
